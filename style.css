@@ -1,0 +1,16 @@
+.body_backgorund 
+{
+    background-image:url(birthday.png);
+    background-position:center;
+    background-size:cover;
+    
+}
+#myCanvas
+{
+   background-color: white;
+   text-align: center;
+   border-style: ridge;
+   border-color: rosybrown;
+   border-width: 10px;
+}
+
